@@ -1,1 +1,1 @@
-# my_projects
+Проекты Data Science
